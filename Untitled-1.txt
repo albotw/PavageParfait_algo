@@ -1,0 +1,20 @@
+input: n=taille du carré, ordre=nombre de carrés?
+output: 
+
+Divise la surface 
+Divise les résultats.
+
+n² comme une somme de carrés d'entiers => pas besoin des positions
+
+Carré 112 ordre 21 pour test
+Diagramme de smith
+
+plus petit ordre est 24 
+
+https://oeis.org/A014530
+
+nombre d'or
+
+http://www.squaring.net/history_theory/brooks_smith_stone_tutte_II.html
+
+approche par graphe -> prog linéaire
